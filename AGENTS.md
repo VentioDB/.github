@@ -1,0 +1,5 @@
+# Agent instructions
+
+Read `README.md` and the relevant source and test files before changing behavior. Keep changes scoped to this repository; adjacent Ventio repositories have separate contracts and release paths. Do not treat historical completion notes or example snippets as current test evidence. Add a focused regression test for behavior changes, run the appropriate suite below, and report exact commands, failures, and any integration prerequisites. Do not change publication, credentials, migrations, or production settings without explicit authority. Never commit secrets or claim Docker-backed integration from mock-only tests.
+
+Organization metadata repository. It currently has no tracked files or code; there is no local build or test. A future public profile belongs at `profile/README.md` if the organization wants one. Keep organization-wide guidance here short and avoid implying it is automatically loaded by agents in other repositories. Verify any proposed metadata links and do not publish internal/private repository details.
